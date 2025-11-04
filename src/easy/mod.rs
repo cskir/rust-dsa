@@ -4,3 +4,5 @@ pub mod longest_common_prefix;
 pub mod palindrome;
 pub mod ranson_note;
 pub mod subsequence;
+pub mod valid_anagram;
+pub mod word_pattern;

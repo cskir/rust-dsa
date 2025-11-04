@@ -2,6 +2,7 @@ pub mod buy_sell;
 pub mod container_most_water;
 pub mod game_of_life;
 pub mod gas_station;
+pub mod group_anagrams;
 pub mod h_index;
 pub mod jump1;
 pub mod jump2;
