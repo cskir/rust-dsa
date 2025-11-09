@@ -25,16 +25,16 @@ mod tests {
         let nums = vec![2, 7, 11, 15];
         let target = 9;
         let result = Solution::two_sum(nums, target);
-        assert_eq!(result, vec![0, 1]);
+        assert_eq!(result, vec![1, 0]);
 
         let nums = vec![3, 2, 4];
         let target = 6;
         let result = Solution::two_sum(nums, target);
-        assert_eq!(result, vec![1, 2]);
+        assert_eq!(result, vec![2, 1]);
 
         let nums = vec![3, 3];
         let target = 6;
         let result = Solution::two_sum(nums, target);
-        assert_eq!(result, vec![0, 1]);
+        assert_eq!(result, vec![1, 0]);
     }
 }
