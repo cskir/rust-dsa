@@ -1,3 +1,4 @@
+pub mod contains_nearby_duplicate;
 pub mod from_roman_conv;
 pub mod is_happy;
 pub mod isomorphic_str;
