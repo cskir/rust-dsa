@@ -8,7 +8,6 @@ impl Solution {
         }
 
         let mut result: Vec<String> = Vec::new();
-
         let mut start: usize = 0;
 
         for i in 1..nums.len() {
