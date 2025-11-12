@@ -8,6 +8,7 @@ pub mod jump1;
 pub mod jump2;
 pub mod longest_consecutive;
 pub mod longest_subst_wo_rep;
+pub mod merge_intervals;
 pub mod min_subarray_sum;
 pub mod rotate_cw_matrix;
 pub mod set_matrix_zeroes;
