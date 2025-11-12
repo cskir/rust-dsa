@@ -6,6 +6,7 @@ pub mod group_anagrams;
 pub mod h_index;
 pub mod jump1;
 pub mod jump2;
+pub mod longest_consecutive;
 pub mod longest_subst_wo_rep;
 pub mod min_subarray_sum;
 pub mod rotate_cw_matrix;
