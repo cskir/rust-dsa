@@ -1,6 +1,7 @@
 use std::collections::HashSet;
 pub struct Solution;
 impl Solution {
+    // vec based on set to avoid set iteration overhead
     pub fn longest_consecutive(nums: Vec<i32>) -> i32 {
         let mut set: HashSet<i32> = HashSet::new();
         let mut items: Vec<i32> = Vec::new();
