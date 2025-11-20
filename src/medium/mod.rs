@@ -1,5 +1,6 @@
 pub mod buy_sell;
 pub mod container_most_water;
+pub mod find_min_arrow_shots;
 pub mod game_of_life;
 pub mod gas_station;
 pub mod group_anagrams;
