@@ -9,4 +9,5 @@ pub mod subsequence;
 pub mod summary_ranges;
 pub mod two_sum;
 pub mod valid_anagram;
+pub mod valid_paranthesis;
 pub mod word_pattern;
