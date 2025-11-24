@@ -1,5 +1,6 @@
 use std::collections::HashMap;
-
+//Leet Code 20. Valid Parentheses
+// Runtime: can be improved...
 pub struct Solution {}
 impl Solution {
     pub fn is_valid(s: String) -> bool {
