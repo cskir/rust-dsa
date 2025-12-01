@@ -14,6 +14,7 @@ pub mod merge_intervals;
 pub mod min_subarray_sum;
 pub mod rotate_cw_matrix;
 pub mod set_matrix_zeroes;
+pub mod simplify_path;
 pub mod spiral_matrix;
 pub mod three_sum;
 pub mod to_roman_conv;
