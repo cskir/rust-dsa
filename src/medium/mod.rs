@@ -9,6 +9,7 @@ pub mod h_index;
 pub mod insert;
 pub mod jump1;
 pub mod jump2;
+pub mod linked_list_add_two_numbers;
 pub mod longest_consecutive;
 pub mod longest_subst_wo_rep;
 pub mod merge_intervals;
